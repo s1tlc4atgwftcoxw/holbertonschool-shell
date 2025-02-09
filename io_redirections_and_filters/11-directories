@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($(tree -dia | wc -l) - 3)) # ngl this is hacky asf but if it works it works man
+echo $(($(tree -dia | wc -l) - 4)) # ngl this is hacky asf but if it works it works man
